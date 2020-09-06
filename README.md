@@ -8,60 +8,48 @@
 
 ### 项目Repo
 
-[OpenCheckSkirt 生成这世界上所有的JK格子](https://github.com/LaoshuBaby/OpenCheckSkirt) [![](https://img.shields.io/github/stars/LaoshuBaby/OpenCheckSkirt.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/OpenCheckSkirt/stargazers)
+[OpenCheckSkirt 生成这世界上所有的JK格子](https://github.com/LaoshuBaby/OpenCheckSkirt) [![](https://img.shields.io/github/stars/LaoshuBaby/OpenCheckSkirt.svg?&label=Star&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/OpenCheckSkirt/stargazers)
     
-[【已弃坑】UncertaintyFrame 不确定度计算框架](https://github.com/LaoshuBaby/UncertaintyFrame)
-
-<div style='display: none'>
-[![](https://img.shields.io/github/stars/LaoshuBaby/UncertaintyFrame.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/UncertaintyFrame/stargazers)
-</div>
+[【已弃坑】UncertaintyFrame 不确定度计算框架](https://github.com/LaoshuBaby/UncertaintyFrame)<!--[![](https://img.shields.io/github/stars/LaoshuBaby/UncertaintyFrame.svg?&label=Star&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/UncertaintyFrame/stargazers)-->
     
-[【半弃坑】DiskRedeemer 磁盘超度器](https://github.com/LaoshuBaby/DiskRedeemer)
-
-<div style='display: none'>
-[![](https://img.shields.io/github/stars/LaoshuBaby/DiskRedeemer.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/DiskRedeemer/stargazers)
-</div>
+[【半弃坑】DiskRedeemer 磁盘超度器](https://github.com/LaoshuBaby/DiskRedeemer)<!--[![](https://img.shields.io/github/stars/LaoshuBaby/DiskRedeemer.svg?&label=Star&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/DiskRedeemer/stargazers)-->
     
-[【半弃坑】GPS_Tools GPS归一最近点](https://github.com/LaoshuBaby/GPS_Tools_demo)
-
-<div style='display: none'>
-[![](https://img.shields.io/github/stars/LaoshuBaby/GPS_Tools_demo.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/GPS_Tools_demo/stargazers)
-</div>
+[【半弃坑】GPS_Tools GPS归一最近点](https://github.com/LaoshuBaby/GPS_Tools_demo)<!--[![](https://img.shields.io/github/stars/LaoshuBaby/GPS_Tools_demo.svg?&label=Star&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/GPS_Tools_demo/stargazers)-->
     
 ### 开源库Repo
 
-[UniComplierControlHeader C语言条件编译头文件库](https://github.com/LaoshuBaby/UniComplierControlHeader) [![](https://img.shields.io/github/stars/LaoshuBaby/UniComplierControlHeader.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/UniComplierControlHeader/stargazers)
+[UniComplierControlHeader C语言条件编译头文件库](https://github.com/LaoshuBaby/UniComplierControlHeader) [![](https://img.shields.io/github/stars/LaoshuBaby/UniComplierControlHeader.svg?&label=Star&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/UniComplierControlHeader/stargazers)
 
 [FuckCoder C语言误操作修正库](https://github.com/LaoshuBaby/FuckCoder)
 
 <div style='display: none'>
-[![](https://img.shields.io/github/stars/LaoshuBaby/FuckCoder.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/FuckCoder/stargazers)
+[![](https://img.shields.io/github/stars/LaoshuBaby/FuckCoder.svg?&label=Star&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/FuckCoder/stargazers)
 </div>
     
 [【已弃坑】Metro-Frame](https://github.com/LaoshuBaby/Metro-Frame) 
 
 <div style='display: none'>
-[![](https://img.shields.io/github/stars/LaoshuBaby/Metro-Frame.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/Metro-Frame/stargazers)
+[![](https://img.shields.io/github/stars/LaoshuBaby/Metro-Frame.svg?&label=Star&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/Metro-Frame/stargazers)
 </div>
 
 ### 作业与比赛Repo
 
-[【已归档】TouHouGenSen](https://github.com/LaoshuBaby/TouHouGenSen) [![](https://img.shields.io/github/stars/LaoshuBaby/TouHouGenSen.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/TouHouGenSen/stargazers)
+[【已归档】TouHouGenSen](https://github.com/LaoshuBaby/TouHouGenSen) [![](https://img.shields.io/github/stars/LaoshuBaby/TouHouGenSen.svg?&label=Star&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/TouHouGenSen/stargazers)
     
 [【催更请Push】DB课设——毕设管理系统 ](https://github.com/LaoshuBaby/GraduationProjectManagerSystem) 
 
 <div style='display: none'>
-[![](https://img.shields.io/github/stars/LaoshuBaby/GraduationProjectManagerSystem.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/GraduationProjectManagerSystem/stargazers)
+[![](https://img.shields.io/github/stars/LaoshuBaby/GraduationProjectManagerSystem.svg?&label=Star&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/GraduationProjectManagerSystem/stargazers)
 </div>
 
 ### 非严谨Repo
 
-[【催更请Push】VampireValue(VV)](https://github.com/LaoshuBaby/VampireValue) [![](https://img.shields.io/github/stars/LaoshuBaby/VampireValue.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/VampireValue/stargazers)
+[【催更请Push】VampireValue(VV)](https://github.com/LaoshuBaby/VampireValue) [![](https://img.shields.io/github/stars/LaoshuBaby/VampireValue.svg?&label=Star&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/VampireValue/stargazers)
     
 [【已归档】是否存在一个仅由0和2构成的中国居民身份证号](https://github.com/LaoshuBaby/ID-consist-of-0-and-2)
 
 <div style='display: none'>
-[![](https://img.shields.io/github/stars/LaoshuBaby/ID-consist-of-0-and-2.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/ID-consist-of-0-and-2/stargazers)
+[![](https://img.shields.io/github/stars/LaoshuBaby/ID-consist-of-0-and-2.svg?&label=Star&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/ID-consist-of-0-and-2/stargazers)
 </div>
 
 剩下的……感觉技术不高又不好玩的就不推荐了，就这样喵。
