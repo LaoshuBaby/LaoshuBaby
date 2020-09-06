@@ -30,7 +30,7 @@
 
 ### 非严谨Repo
 
-[【催更请Push】VampireValue(VV)](https://github.com/LaoshuBaby/VampireValue)[![](https://img.shields.io/github/starsLaoshuBaby/VampireValue.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/VampireValue/stargazers)
+[【催更请Push】VampireValue(VV)](https://github.com/LaoshuBaby/VampireValue)[![](https://img.shields.io/github/stars/LaoshuBaby/VampireValue.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/VampireValue/stargazers)
     
 [【已归档】是否存在一个仅由0和2构成的中国居民身份证号](https://github.com/LaoshuBaby/ID-consist-of-0-and-2)[![](https://img.shields.io/github/stars/LaoshuBaby/ID-consist-of-0-and-2.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/ID-consist-of-0-and-2/stargazers)
 
