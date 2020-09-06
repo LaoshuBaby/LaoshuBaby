@@ -1,4 +1,4 @@
-<img align="right" src="LaoshuBaby.png" width="320" height="320">
+<img align="right" src="LaoshuBaby.png" width="233" height="233">
 
 这里是鼠宝宝的GitHub主页，还请多多关照ε=ε=ε=(~￣▽￣)~
 
@@ -14,33 +14,45 @@
 
 <div style='display: none'>
 [![](https://img.shields.io/github/stars/LaoshuBaby/UncertaintyFrame.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/UncertaintyFrame/stargazers)
+</div>
     
 [【半弃坑】DiskRedeemer 磁盘超度器](https://github.com/LaoshuBaby/DiskRedeemer)
 
 <div style='display: none'>
 [![](https://img.shields.io/github/stars/LaoshuBaby/DiskRedeemer.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/DiskRedeemer/stargazers)
+</div>
     
 [【半弃坑】GPS_Tools GPS归一最近点](https://github.com/LaoshuBaby/GPS_Tools_demo)
 
 <div style='display: none'>
 [![](https://img.shields.io/github/stars/LaoshuBaby/GPS_Tools_demo.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/GPS_Tools_demo/stargazers)
+</div>
     
 ### 开源库Repo
+
+[UniComplierControlHeader C语言条件编译头文件库](https://github.com/LaoshuBaby/UniComplierControlHeader) [![](https://img.shields.io/github/stars/LaoshuBaby/UniComplierControlHeader.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/UniComplierControlHeader/stargazers)
 
 [FuckCoder C语言误操作修正库](https://github.com/LaoshuBaby/FuckCoder)
 
 <div style='display: none'>
 [![](https://img.shields.io/github/stars/LaoshuBaby/FuckCoder.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/FuckCoder/stargazers)
+</div>
     
-[UniComplierControlHeader C语言条件编译头文件库](https://github.com/LaoshuBaby/UniComplierControlHeader) [![](https://img.shields.io/github/stars/LaoshuBaby/UniComplierControlHeader.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/UniComplierControlHeader/stargazers)
-    
-[【已弃坑】Metro-Frame](https://github.com/LaoshuBaby/Metro-Frame) [![](https://img.shields.io/github/stars/LaoshuBaby/Metro-Frame.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/Metro-Frame/stargazers)
+[【已弃坑】Metro-Frame](https://github.com/LaoshuBaby/Metro-Frame) 
+
+<div style='display: none'>
+[![](https://img.shields.io/github/stars/LaoshuBaby/Metro-Frame.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/Metro-Frame/stargazers)
+</div>
 
 ### 作业与比赛Repo
 
 [【已归档】TouHouGenSen](https://github.com/LaoshuBaby/TouHouGenSen) [![](https://img.shields.io/github/stars/LaoshuBaby/TouHouGenSen.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/TouHouGenSen/stargazers)
     
-[【催更请Push】数据库原理课程设计——毕业设计管理系统 ](https://github.com/LaoshuBaby/GraduationProjectManagerSystem) [![](https://img.shields.io/github/stars/LaoshuBaby/GraduationProjectManagerSystem.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/GraduationProjectManagerSystem/stargazers)
+[【催更请Push】DB课设——毕设管理系统 ](https://github.com/LaoshuBaby/GraduationProjectManagerSystem) 
+
+<div style='display: none'>
+[![](https://img.shields.io/github/stars/LaoshuBaby/GraduationProjectManagerSystem.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/GraduationProjectManagerSystem/stargazers)
+</div>
 
 ### 非严谨Repo
 
@@ -50,6 +62,7 @@
 
 <div style='display: none'>
 [![](https://img.shields.io/github/stars/LaoshuBaby/ID-consist-of-0-and-2.svg?&label=☆&labelColor=8c8&color=ac5)](https://github.com/LaoshuBaby/ID-consist-of-0-and-2/stargazers)
+</div>
 
 剩下的……感觉技术不高又不好玩的就不推荐了，就这样喵。
 好想变成小Loli啊（挠头）
