@@ -8,7 +8,9 @@
 
 ### 项目Repo
 
-[OpenCheckSkirt 生成这世界上所有的JK格子](https://github.com/LaoshuBaby/OpenCheckSkirt) [![](https://img.shields.io/github/stars/LaoshuBaby/OpenCheckSkirt.svg?style=flat-square&logo=github&logoWidth=20&label=Star&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/OpenCheckSkirt/stargazers)
+[独立开发][OpenCheckSkirt 生成这世界上所有的JK格子](https://github.com/LaoshuBaby/OpenCheckSkirt) [![](https://img.shields.io/github/stars/LaoshuBaby/OpenCheckSkirt.svg?style=flat-square&logo=github&logoWidth=20&label=Star&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/OpenCheckSkirt/stargazers)
+    
+[参与贡献][Unigal-Script](https://github.com/Uni-Gal/UniGal-Script) [![](https://img.shields.io/github/stars/Uni-Gal/UniGal-Script.svg?style=flat-square&logo=github&logoWidth=20&label=Star&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/Uni-Gal/UniGal-Script/stargazers)
     
 [【已弃坑】UncertaintyFrame 不确定度计算框架](https://github.com/LaoshuBaby/UncertaintyFrame)<!--[![](https://img.shields.io/github/stars/LaoshuBaby/UncertaintyFrame.svg?style=flat-square&logo=github&logoWidth=20&label=Star&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/UncertaintyFrame/stargazers)-->
     
