@@ -1,4 +1,4 @@
-<img align="right" src="LaoshuBaby.png" width="233" height="233">
+<img align="right" src="https://laoshubaby.oss-cn-shanghai.aliyuncs.com/laoshubaby.jpg" width="233" height="233">
 
 这里是鼠宝宝的GitHub主页，还请多多关照ε=ε=ε=(~￣▽￣)~
 
