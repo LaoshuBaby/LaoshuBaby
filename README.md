@@ -15,7 +15,10 @@
 [主导开发][Schedule_Intersector 学生组织课表求交器](https://github.com/BUCTSNC/Schudule_Intersector)[![](https://img.shields.io/github/stars/BUCTSNC/Schudule_Intersector.svg?style=flat-square&logo=github&logoWidth=20&label=Star&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/BUCTSNC/Schudule_Intersector/stargazers)
 
 [独立开发][OpenPlaids 生成这世界上所有的格纹](https://github.com/OpenPlaids/OpenPlaids) [![](https://img.shields.io/github/stars/OpenPlaids/OpenPlaids.svg?style=flat-square&logo=github&logoWidth=20&label=Star&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/OpenPlaids/OpenPlaids/stargazers)
-    
+
+
+[社区索引][CUTI 中国高校TeX论文模板索引](https://github.com/LaoshuBaby/china-university-thesis-index) [![](https://img.shields.io/github/stars/LaoshuBaby/china-university-thesis-index.svg?style=flat-square&logo=github&logoWidth=20&label=Star&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/china-university-thesis-index/stargazers)
+
 <!--[【已弃坑】UncertaintyFrame 不确定度计算框架](https://github.com/LaoshuBaby/UncertaintyFrame)--><!--[![](https://img.shields.io/github/stars/LaoshuBaby/UncertaintyFrame.svg?style=flat-square&logo=github&logoWidth=20&label=Star&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/UncertaintyFrame/stargazers)-->
 
 <!--[【半弃坑】DiskRedeemer 磁盘超度器](https://github.com/LaoshuBaby/DiskRedeemer)--><!--[![](https://img.shields.io/github/stars/LaoshuBaby/DiskRedeemer.svg?style=flat-square&logo=github&logoWidth=20&label=Star&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/DiskRedeemer/stargazers)-->
