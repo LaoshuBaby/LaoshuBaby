@@ -8,22 +8,29 @@
 
 ### 项目Repo
 
-[参与贡献][Unigal-Script](https://github.com/Uni-Gal/UniGal-Script) [![](https://img.shields.io/github/stars/Uni-Gal/UniGal-Script.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/Uni-Gal/UniGal-Script/stargazers)[![](https://img.shields.io/github/forks/Uni-Gal/UniGal-Script.svg?style=flat-square&logo=github&logoWidth=20&label=Forks&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/Uni-Gal/UniGal-Script/network/members)
+<details>
+<summary><strong>项目Repo</strong></summary>
 
-[独立开发][VisualMoe 视频隐藏帧检测](https://github.com/BUCTSNC/VisualMoe)[![](https://img.shields.io/github/stars/BUCTSNC/VisualMoe.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/BUCTSNC/VisualMoe/stargazers)
++ [参与贡献][Unigal-Script](https://github.com/Uni-Gal/UniGal-Script)
+  [![](https://img.shields.io/github/stars/Uni-Gal/UniGal-Script.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/Uni-Gal/UniGal-Script/stargazers)
+  [![](https://img.shields.io/github/forks/Uni-Gal/UniGal-Script.svg?style=flat-square&logo=github&logoWidth=20&label=Forks&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/Uni-Gal/UniGal-Script/network/members)
+    
++ [独立开发][VisualMoe 视频隐藏帧检测](https://github.com/BUCTSNC/VisualMoe)
+  [![](https://img.shields.io/github/stars/BUCTSNC/VisualMoe.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/BUCTSNC/VisualMoe/stargazers)
 
-[主导开发][Schedule_Intersector 学生组织课表求交器](https://github.com/BUCTSNC/Schudule_Intersector)[![](https://img.shields.io/github/stars/BUCTSNC/Schudule_Intersector.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/BUCTSNC/Schudule_Intersector/stargazers)
++ [主导开发][Schedule_Intersector 学生组织课表求交器](https://github.com/BUCTSNC/Schudule_Intersector)[![](https://img.shields.io/github/stars/BUCTSNC/Schudule_Intersector.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/BUCTSNC/Schudule_Intersector/stargazers)
 
-[独立开发][OpenPlaids 生成这世界上所有的格纹](https://github.com/OpenPlaids/OpenPlaids) [![](https://img.shields.io/github/stars/OpenPlaids/OpenPlaids.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/OpenPlaids/OpenPlaids/stargazers)
++ [独立开发][OpenPlaids 生成这世界上所有的格纹](https://github.com/OpenPlaids/OpenPlaids) [![](https://img.shields.io/github/stars/OpenPlaids/OpenPlaids.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/OpenPlaids/OpenPlaids/stargazers)
 
-
-[社区索引][CUTI 中国高校TeX论文模板索引](https://github.com/LaoshuBaby/china-university-thesis-index) [![](https://img.shields.io/github/stars/LaoshuBaby/china-university-thesis-index.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/china-university-thesis-index/stargazers)
++ [社区索引][CUTI 中国高校TeX论文模板索引](https://github.com/LaoshuBaby/china-university-thesis-index) [![](https://img.shields.io/github/stars/LaoshuBaby/china-university-thesis-index.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/china-university-thesis-index/stargazers)
 
 <!--[【已弃坑】UncertaintyFrame 不确定度计算框架](https://github.com/LaoshuBaby/UncertaintyFrame)--><!--[![](https://img.shields.io/github/stars/LaoshuBaby/UncertaintyFrame.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/UncertaintyFrame/stargazers)-->
 
 <!--[【半弃坑】DiskRedeemer 磁盘超度器](https://github.com/LaoshuBaby/DiskRedeemer)--><!--[![](https://img.shields.io/github/stars/LaoshuBaby/DiskRedeemer.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/DiskRedeemer/stargazers)-->
 
 <!--[【半弃坑】GPS_Tools GPS归一最近点](https://github.com/LaoshuBaby/GPS_Tools_demo)--><!--[![](https://img.shields.io/github/stars/LaoshuBaby/GPS_Tools_demo.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/GPS_Tools_demo/stargazers)-->
+
+</details>
     
 ### 开源库Repo
 
@@ -46,5 +53,19 @@
 [【已归档】是否存在一个仅由0和2构成的中国居民身份证号](https://github.com/LaoshuBaby/ID-consist-of-0-and-2)<!--[![](https://img.shields.io/github/stars/LaoshuBaby/ID-consist-of-0-and-2.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/ID-consist-of-0-and-2/stargazers)-->
 
 剩下的……实在抱歉，因为感觉没什么技术含量，也算不上有多好玩，就不在这里展示和推荐了
+
+<details>
+
+<summary><strong>Panel</strong></summary>
+<b>
+<image src='https://github-readme-stats.vercel.app/api?username=LaoshuBaby&theme=algolia&show_icons=true&count_private=true' <!-- height= 141-->></image>
+</b>
+<b>
+<image src='https://github-readme-stats.vercel.app/api/top-langs/?username=LaoshuBaby&layout=compact&theme=calm' <!-- height= 141-->></image>
+</b>
+
+<!-- <image src='https://github-profile-trophy.vercel.app/?username=LaoshuBaby&theme=nord'></image> -->
+
+</details>
 
 I WANNA BE A NEKO GIRL！
