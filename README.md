@@ -1,3 +1,18 @@
+### TODO
+
+时刻提醒自己这个寒假需要做的工作
+
+1. Toybrick.md
+2. UniGal
+3. OSMChina的keqing和yanfei和zhongli
+4. 导师安排的论文任务（在Gitee私有仓库，诸位看不到）
+5. 协助BUCTthesis
+6. OSMChina冬奥会图拉松 以及 OSMBC
+
+如果还有时间，就考虑一下游戏制作，可恶的高数，以及鼠宝宝的个人数字形象了哦
+
+<hr>
+
 <img align="right" src="https://laoshubaby.oss-cn-shanghai.aliyuncs.com/laoshubaby.jpg" width="233" height="233">
 
 这里是鼠宝宝的GitHub主页，还请多多关照ε=ε=ε=(~￣▽￣)~
