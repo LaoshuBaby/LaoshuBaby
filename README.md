@@ -11,6 +11,16 @@
 
 如果还有时间，就考虑一下游戏制作，可恶的高数，以及鼠宝宝的个人数字形象了哦
 
+<!--
+想学Haskell，想学Rust
+
+https://github.com/bitemyapp/learnhaskell/blob/master/guide-zh_CN.md
+http://learnyouahaskell.com/chapters
+https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems
+https://stackoverflow.com/questions/1012573/getting-started-with-haskell
+http://cnhaskell.com/
+-->
+
 <hr>
 
 <img align="right" src="https://laoshubaby.oss-cn-shanghai.aliyuncs.com/laoshubaby.jpg" width="233" height="233">
