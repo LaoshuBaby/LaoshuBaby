@@ -1,6 +1,6 @@
 ### TODO
 
-时刻提醒自己这个寒假需要做的工作
+时刻提醒自己这个寒假需要做的工作<big>卧槽！怎么快开学了！</big>
 
 1. Toybrick.md
 2. UniGal
@@ -9,7 +9,7 @@
 5. 协助BUCTthesis
 6. OSMChina冬奥会图拉松 以及 OSMBC
 
-如果还有时间，就考虑一下游戏制作，可恶的高数，以及鼠宝宝的个人数字形象了哦
+如果还有时间，就考虑一下游戏制作，可恶的高数，以及**鼠宝宝的个人数字形象**（要用）了哦
 
 <!--
 想学Haskell，想学Rust
@@ -20,6 +20,8 @@ https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems
 https://stackoverflow.com/questions/1012573/getting-started-with-haskell
 http://cnhaskell.com/
 -->
+
+<small>目标加一个，看懂这个仓库，方便以后找工作：[EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)</small>
 
 <hr>
 
