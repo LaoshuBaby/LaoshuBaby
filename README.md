@@ -1,13 +1,12 @@
 ### TODO
 
-时刻提醒自己这个寒假需要做的工作<big>卧槽！怎么快开学了！</big>
+已经开学了，这是寒假没完成的任务：
 
 1. Toybrick.md
 2. UniGal
 3. OSMChina的keqing和yanfei和zhongli
 4. 导师安排的论文任务（在Gitee私有仓库，诸位看不到）
 5. 协助BUCTthesis
-6. OSMChina冬奥会图拉松 以及 OSMBC
 
 如果还有时间，就考虑一下游戏制作，可恶的高数，以及**鼠宝宝的个人数字形象**（要用）了哦
 
