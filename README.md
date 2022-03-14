@@ -1,3 +1,11 @@
+# <big><big><big>正在求职中 / Seeking for a job / 仕事を探す</big></big></big>
+
+**有Base北京的工作欢迎给我发邮件！**
+
+<hr>
+
+<!--
+
 ### TODO
 
 已经开学了，这是寒假没完成的任务：
@@ -10,7 +18,7 @@
 
 如果还有时间，就考虑一下游戏制作，可恶的高数，以及**鼠宝宝的个人数字形象**（要用）了哦
 
-<!--
+
 想学Haskell，想学Rust
 
 https://github.com/bitemyapp/learnhaskell/blob/master/guide-zh_CN.md
@@ -18,11 +26,11 @@ http://learnyouahaskell.com/chapters
 https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems
 https://stackoverflow.com/questions/1012573/getting-started-with-haskell
 http://cnhaskell.com/
--->
+
 
 <small>目标加一个，看懂这个仓库，方便以后找工作：[EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)</small>
 
-<hr>
+-->
 
 <img align="right" src="https://laoshubaby.oss-cn-shanghai.aliyuncs.com/laoshubaby.jpg" width="233" height="233">
 
