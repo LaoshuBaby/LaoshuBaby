@@ -32,6 +32,8 @@ http://cnhaskell.com/
 
 <small>目标加一个，看懂这个仓库，方便以后找工作：[EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)</small>
 
+再加一个，学会blender，玩玩华为的Char看看有什么好玩的。提高一下de/zh-yue/ko/ja/ru的技能点。
+
 -->
 
 <img align="right" src="https://laoshubaby.oss-cn-shanghai.aliyuncs.com/laoshubaby.jpg" width="233" height="233">
@@ -49,6 +51,15 @@ http://cnhaskell.com/
 <details>
   
 <summary><strong>玩具项目Repo</strong></summary>
+  
+  <!-- 
+
+备选的shield方案另有：
+https://github.com/phodal/brand
+https://github.com/RimoChan/unv-shield
+如果下面的炸了就考虑替换上面的个人项目了
+
+  -->
 
 + [参与贡献][Unigal-Script](https://github.com/Uni-Gal/UniGal-Script)
   [![](https://img.shields.io/github/stars/Uni-Gal/UniGal-Script.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/Uni-Gal/UniGal-Script/stargazers)
