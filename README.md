@@ -145,6 +145,24 @@ http://cnhaskell.com/
 
 </details>
 
+### Social Media
+
+想🍑吃呢！鼠宝宝不会给你看的哦！
+
+<details>
+  <summary></summary>
+  <li>
+    <ol><li>
+    <ul><a rel="me" href="https://gensokyo.town/@laoshubaby">Mastodon</a><br/></ul>
+    <ul><a rel="me" href="https://wxw.moe/@laoshubaby">Mastodon</a><br/></ul>
+    <ul><a rel="me" href="https://en.osm.town/@laoshubaby">Mastodon</a><br/></ul>
+    </li></ol>
+    <ol>
+      <p>Adding</p>
+    </ol>
+  </li>
+</details>
+
 <!--
 
 ### 参与的项目
