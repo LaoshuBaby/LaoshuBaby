@@ -153,9 +153,9 @@ http://cnhaskell.com/
   <summary></summary>
   <li>
     <ol><li>
-    <ul><a rel="me" href="https://gensokyo.town/@laoshubaby">Mastodon</a><br/></ul>
-    <ul><a rel="me" href="https://wxw.moe/@laoshubaby">Mastodon</a><br/></ul>
-    <ul><a rel="me" href="https://en.osm.town/@laoshubaby">Mastodon</a><br/></ul>
+    <ul><a rel="me" href="https://wxw.moe/@laoshubaby">(Mastodon)wxw.moe@laoshubaby</a><br/></ul>
+    <ul><a rel="me" href="https://en.osm.town/@laoshubaby">(Mastodon)en.osm.town@laoshubaby</a><br/></ul>
+    <ul><a rel="me" href="https://misskey.io/@laoshubaby">(Misskey)misskey.io@laoshubaby</a><br/></ul>
     </li></ol>
     <ol>
       <p>Adding</p>
