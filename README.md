@@ -42,7 +42,14 @@ http://cnhaskell.com/
 
 <details>
   
-<summary><strong>玩具项目Repo</strong></summary>
+<summary><strong>:file_folder:玩具项目Repo</strong></summary>
+  
+  <!--
+  <img src='https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/python.svg' width='18'/> Python
+  <img src='https://raw.github.com/voodootikigod/logo.js/master/js.png' width='18'/> Javascript <although_I_don_t_know_js/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> Typescript <although_I_don_t_know_ts/>
+  <those_from_docentYT_readme_and_looks_good/>
+  -->
 
 + [参与贡献][Unigal-Script](https://github.com/Uni-Gal/UniGal-Script)
   [![](https://img.shields.io/github/stars/Uni-Gal/UniGal-Script.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/Uni-Gal/UniGal-Script/stargazers)
@@ -81,7 +88,7 @@ http://cnhaskell.com/
 
 <details>
   
-<summary><strong>方轮子Repo</strong></summary>
+<summary><strong>:file_folder:方轮子Repo</strong></summary>
 
 + [UniComplierControlHeader C语言条件编译头文件库](https://github.com/LaoshuBaby/UniComplierControlHeader)
   [![](https://img.shields.io/github/stars/LaoshuBaby/UniComplierControlHeader.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/UniComplierControlHeader/stargazers)
@@ -102,7 +109,7 @@ http://cnhaskell.com/
 
 <details>
   
-<summary><strong>作业与比赛Repo</strong></summary>
+<summary><strong>:file_folder:作业与比赛Repo</strong></summary>
 
 + [【已归档】TouHouGenSen](https://github.com/LaoshuBaby/TouHouGenSen) [![](https://img.shields.io/github/stars/LaoshuBaby/TouHouGenSen.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/TouHouGenSen/stargazers)
     
@@ -114,7 +121,7 @@ http://cnhaskell.com/
 
 <details>
   
-<summary><strong>娱乐性Repo</strong></summary> 
+<summary><strong>:file_folder:娱乐性Repo</strong></summary> 
 
 + [【催更请Push】VampireValue(VV)](https://github.com/LaoshuBaby/VampireValue)
   [![](https://img.shields.io/github/stars/LaoshuBaby/VampireValue.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/VampireValue/stargazers)
@@ -130,7 +137,7 @@ http://cnhaskell.com/
 
 <details>
 
-<summary><strong>Panel</strong></summary>
+<summary><strong>:file_folder:Panel</strong></summary>
 <b>
 <image src='https://github-readme-stats.vercel.app/api?username=LaoshuBaby&theme=tokyonight&show_icons=true&count_private=true' height=141></image>
 </b>
