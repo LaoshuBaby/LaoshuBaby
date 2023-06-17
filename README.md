@@ -32,7 +32,7 @@ http://cnhaskell.com/
 
 -->
 
-<img align="right" src="https://laoshubaby.oss-cn-shanghai.aliyuncs.com/laoshubaby.jpg" width="233" height="233">
+<img align="right" src="https://laoshubaby.oss-cn-beijing.aliyuncs.com/laoshubaby.jpg" width="233" height="233">
 
 网络上是鼠宝宝，生活中也是🐭宝宝
 
