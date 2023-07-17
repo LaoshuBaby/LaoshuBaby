@@ -1,5 +1,7 @@
 <strong>还是宛平南路600号比较适合我，起码大家都有病🙏</strong>
 
+<img src="https://laoshubaby.oss-cn-beijing.aliyuncs.com/data/%E8%BF%99%E7%9C%9F%E6%98%AF%E4%B8%AA%E6%B2%A1%E6%9C%89%E6%A2%A6%E6%83%B3%E7%9A%84%E4%B8%96%E7%95%8C.webp" alt="这真是个没有梦想的世界"/>
+
 <hr>
 
 <!--
@@ -210,7 +212,7 @@ http://cnhaskell.com/
 -->
 
 
-<--
+<!--
 https://github.com/ktKongTong/ktKongTong/blob/main/.github/workflows/action.yml
 -->
 
