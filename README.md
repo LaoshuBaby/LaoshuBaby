@@ -40,6 +40,17 @@ http://cnhaskell.com/
 
 ### 仓库大全
 
+<!--
+
+希望能认真建设和推广的项目：
+1. OSMChina三大原：Keqing-Zhongli-Yanfei
+2. 知识开放，推动Mozilla和千树学院的建设
+3. 所有参与翻译过的项目
+4. python-cngal/bangumi 以及其他开放知识站点的数据驱动（甚至可以造一个更底层的swagger的驱动，然后把各个站点的驱动都配置文件化，这是远期目标）
+
+-->
+
+
 <!-- 玩具项目Repo -->
 
 <details>
@@ -69,54 +80,6 @@ http://cnhaskell.com/
 + [社区索引][CUTI 中国高校TeX论文模板索引](https://github.com/LaoshuBaby/china-university-thesis-index)
   [![](https://img.shields.io/github/stars/LaoshuBaby/china-university-thesis-index.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/china-university-thesis-index/stargazers)
 
-<!--
-+ [【已弃坑】UncertaintyFrame 不确定度计算框架](https://github.com/LaoshuBaby/UncertaintyFrame)
-  [![](https://img.shields.io/github/stars/LaoshuBaby/UncertaintyFrame.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/UncertaintyFrame/stargazers)
--->
-
-<!--
-+ [【半弃坑】DiskRedeemer 磁盘超度器](https://github.com/LaoshuBaby/DiskRedeemer)
-  [![](https://img.shields.io/github/stars/LaoshuBaby/DiskRedeemer.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/DiskRedeemer/stargazers)
--->
-
-<!--
-+ [【半弃坑】GPS_Tools GPS归一最近点](https://github.com/LaoshuBaby/GPS_Tools_demo)
-  [![](https://img.shields.io/github/stars/LaoshuBaby/GPS_Tools_demo.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/GPS_Tools_demo/stargazers)
--->
-
-</details>
-    
-<!-- 方轮子Repo -->
-
-<details>
-  
-<summary><strong>:file_folder:方轮子Repo</strong></summary>
-
-+ [UniComplierControlHeader C语言条件编译头文件库](https://github.com/LaoshuBaby/UniComplierControlHeader)
-  [![](https://img.shields.io/github/stars/LaoshuBaby/UniComplierControlHeader.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/UniComplierControlHeader/stargazers)
-
-+ [FuckCoder C语言误操作修正库](https://github.com/LaoshuBaby/FuckCoder)
-  <!--
-[![](https://img.shields.io/github/stars/LaoshuBaby/FuckCoder.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/FuckCoder/stargazers)
--->
-    
-+ [【已弃坑】Metro-Frame](https://github.com/LaoshuBaby/Metro-Frame)
-<!--
-  [![](https://img.shields.io/github/stars/LaoshuBaby/Metro-Frame.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/Metro-Frame/stargazers)
--->
-
-</details>
-
-<!-- 作业与比赛Repo -->
-
-<details>
-  
-<summary><strong>:file_folder:作业与比赛Repo</strong></summary>
-
-+ [【已归档】TouHouGenSen](https://github.com/LaoshuBaby/TouHouGenSen) [![](https://img.shields.io/github/stars/LaoshuBaby/TouHouGenSen.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/TouHouGenSen/stargazers)
-    
-+ [【催更请Push】DB课设——毕设管理系统 ](https://github.com/LaoshuBaby/GraduationProjectManagerSystem) <!--[![](https://img.shields.io/github/stars/LaoshuBaby/GraduationProjectManagerSystem.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/GraduationProjectManagerSystem/stargazers)-->
-
 </details>
 
 <!-- 娱乐性Repo -->
@@ -127,11 +90,6 @@ http://cnhaskell.com/
 
 + [【催更请Push】VampireValue(VV)](https://github.com/LaoshuBaby/VampireValue)
   [![](https://img.shields.io/github/stars/LaoshuBaby/VampireValue.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/VampireValue/stargazers)
-    
-+ [【已归档】是否存在一个仅由0和2构成的中国居民身份证号](https://github.com/LaoshuBaby/ID-consist-of-0-and-2)
-<!--
-  [![](https://img.shields.io/github/stars/LaoshuBaby/ID-consist-of-0-and-2.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/ID-consist-of-0-and-2/stargazers)
--->
   
 </details>
 
