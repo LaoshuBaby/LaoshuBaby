@@ -21,7 +21,8 @@ GitHub的在线展示环境和VSCode等代码编辑器中使用浏览器作为HT
       <details>
         <summary>
           <span style="font-weight: bold">
-            <strong>还是宛平南路600号比较适合我，起码大家都有病🙏</strong>
+            <strong>还是<ruby>宛平南路600号<rp>(</rp><rt>这才是你真正的家啊</rt><rp>)</rp> </ruby>
+比较适合我，起码大家都有病🙏</strong>
           </span>
         </summary>
         <img
