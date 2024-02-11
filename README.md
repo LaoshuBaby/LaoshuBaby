@@ -109,24 +109,6 @@ http://cnhaskell.com/
 </b>
 
 <!-- <image src='https://github-profile-trophy.vercel.app/?username=LaoshuBaby&theme=nord'></image> -->
-  
-<link rel="stylesheet" href="https://unpkg.com/octicons@4.4.0/build/font/octicons.css">
-<link rel="stylesheet" href="https://unpkg.com/github-activity-feed@latest/dist/github-activity.min.css">
-
-<script type="text/javascript" src="https://unpkg.com/mustache@4.2.0/mustache.min.js"></script>
-<script type="text/javascript" src="https://unpkg.com/github-activity-feed@latest/dist/github-activity.min.js"></script>
-
-<!-- if using dark theme add this in addition to the main CSS file -->
-<link rel="stylesheet" href="https://unpkg.com/github-activity-feed@latest/dist/github-activity.dark.min.css">
-  
-  <div id="feed">
-  GitHubActivity.feed({
-  username: "LaoshuBaby",
-  repository: "LaoshuBaby", // optional
-  selector: "#feed",
-  limit: 20, // optional
-});</div>
-
 </details>
 
 ### Social Media
