@@ -13,12 +13,11 @@ GitHub的在线展示环境和VSCode等代码编辑器中使用浏览器作为HT
 
 -->
 
-
-<div>
-  <li
+<table>
+  <tr
     style="list-style: none; display: inline; grid-template-columns: 1fr 2fr"
   >
-    <ul>
+    <td>
       <details>
         <summary>
           <span style="font-weight: bold">
@@ -26,12 +25,16 @@ GitHub的在线展示环境和VSCode等代码编辑器中使用浏览器作为HT
           </span>
         </summary>
         <img
-          style="float: right;"
+          align="left"
+          style="float: left;"
           src="https://laoshubaby.oss-cn-beijing.aliyuncs.com/data/%E8%BF%99%E7%9C%9F%E6%98%AF%E4%B8%AA%E6%B2%A1%E6%9C%89%E6%A2%A6%E6%83%B3%E7%9A%84%E4%B8%96%E7%95%8C.webp"
           alt="这真是个没有梦想的世界"
           width="233px"
         />
+        <br />
       </details>
+
+<span>网络上是鼠宝宝，生活中也是🐭宝宝</span>
 
 <!--
 
@@ -63,23 +66,21 @@ GitHub的在线展示环境和VSCode等代码编辑器中使用浏览器作为HT
 
 -->
 
-  </ul>
-  <ul>
+  </td>
+  <td>
       <img
         style="float: right;"
+        align="right"
         src="https://laoshubaby.oss-cn-beijing.aliyuncs.com/laoshubaby.jpg"
         width="233"
         height="233"
       />
+  </td>
 
-      网络上是鼠宝宝，生活中也是🐭宝宝
+  </tr>
+</table>
 
-  </ul>
-
-  </li>
-</div>
-
-<hr />
+<br /><hr />
 
 ### 仓库大全
 
@@ -184,23 +185,23 @@ GitHub的在线展示环境和VSCode等代码编辑器中使用浏览器作为HT
 
 <details>
   <summary>想🍑吃呢！鼠宝宝不会给你看的哦！</summary>
-  <li style="display:inline">
-    <ul>
+  <ul style="display:inline">
+    <li>
       <a rel="me" href="https://wxw.moe/@laoshubaby"
         >(Mastodon)wxw.moe@laoshubaby</a
       >
-    </ul>
-    <ul>
+    </li>
+    <li>
       <a rel="me" href="https://en.osm.town/@laoshubaby"
         >(Mastodon)en.osm.town@laoshubaby</a
       >
-    </ul>
-    <ul>
+    </li>
+    <li>
       <a rel="me" href="https://misskey.io/@laoshubaby"
         >(Misskey)misskey.io@laoshubaby</a
       >
-    </ul>
-  </li>
+    </li>
+  </ul>
 </details>
 
 <!--
