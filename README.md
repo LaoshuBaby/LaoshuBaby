@@ -65,12 +65,18 @@ http://cnhaskell.com/
 
 -->
 
+<!-- 
+
+Emoji图像由 https://emojipedia.org/file-folder#designs 提供
+
+-->
+
 
 <!-- 玩具项目Repo -->
 
 <details>
   
-<summary><strong>:file_folder:玩具项目Repo</strong></summary>
+<summary><strong><img src="https://em-content.zobj.net/source/mozilla/36/file-folder_1f4c1.png" style="height: 0.9em;" alt=":file_folder:">玩具项目Repo</strong></summary>
   
   <!--
   <img src='https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/python.svg' width='18'/> Python
@@ -101,7 +107,7 @@ http://cnhaskell.com/
 
 <details>
   
-<summary><strong>:file_folder:娱乐性Repo</strong></summary> 
+<summary><strong><img src="https://em-content.zobj.net/source/mozilla/36/file-folder_1f4c1.png" style="height: 0.9em;" alt=":file_folder:">娱乐性Repo</strong></summary> 
 
 + [【催更请Push】VampireValue(VV)](https://github.com/LaoshuBaby/VampireValue)
   [![](https://img.shields.io/github/stars/LaoshuBaby/VampireValue.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/VampireValue/stargazers)
@@ -112,7 +118,7 @@ http://cnhaskell.com/
 
 <details>
 
-<summary><strong>:file_folder:Panel</strong></summary>
+<summary><strong><img src="https://em-content.zobj.net/source/mozilla/36/file-folder_1f4c1.png" style="height: 0.9em;" alt=":file_folder:">Panel</strong></summary>
 <b>
 <image src='https://github-readme-stats.vercel.app/api?username=LaoshuBaby&theme=tokyonight&show_icons=true&count_private=true' height=141></image>
 </b>
