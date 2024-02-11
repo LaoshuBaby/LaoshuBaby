@@ -1,21 +1,17 @@
 <div>
 
-<span style="font-weight: bold;">
+<li style="list-style: none;">
+
+  <ul>
+<details>
+<summary>
+  <span style="font-weight: bold;">
 <strong>还是宛平南路600号比较适合我，起码大家都有病🙏</strong>
 <!-- 部分浏览器对加粗的支持不够好，强行通过<strong/>实现加粗 -->
 </span>
-
-<li style="list-style: none;">
-  <ul>
-    <img align="right" src="https://laoshubaby.oss-cn-beijing.aliyuncs.com/laoshubaby.jpg" width="233" height="233">
-
-网络上是鼠宝宝，生活中也是🐭宝宝
-  </ul>
-  <ul>
-    <img align="right" src="https://laoshubaby.oss-cn-beijing.aliyuncs.com/data/%E8%BF%99%E7%9C%9F%E6%98%AF%E4%B8%AA%E6%B2%A1%E6%9C%89%E6%A2%A6%E6%83%B3%E7%9A%84%E4%B8%96%E7%95%8C.webp" alt="这真是个没有梦想的世界" width="300px"/>
-  </ul>
-</li>
-
+</summary>
+    <img align="right" src="https://laoshubaby.oss-cn-beijing.aliyuncs.com/data/%E8%BF%99%E7%9C%9F%E6%98%AF%E4%B8%AA%E6%B2%A1%E6%9C%89%E6%A2%A6%E6%83%B3%E7%9A%84%E4%B8%96%E7%95%8C.webp" alt="这真是个没有梦想的世界" width="233px"/>
+    </details>
 
 <!--
 
@@ -47,7 +43,14 @@ http://cnhaskell.com/
 
 -->
 
+  </ul>
+    <ul>
+    <img align="right" src="https://laoshubaby.oss-cn-beijing.aliyuncs.com/laoshubaby.jpg" width="233" height="233">
 
+网络上是鼠宝宝，生活中也是🐭宝宝
+
+  </ul>
+</li>
 
 </div>
 
@@ -65,12 +68,11 @@ http://cnhaskell.com/
 
 -->
 
-<!-- 
+<!--
 
 Emoji图像由 https://emojipedia.org/file-folder#designs 提供
 
 -->
-
 
 <!-- 玩具项目Repo -->
 
@@ -85,20 +87,19 @@ Emoji图像由 https://emojipedia.org/file-folder#designs 提供
   <those_from_docentYT_readme_and_looks_good/>
   -->
 
-+ [参与贡献][Unigal-Script](https://github.com/Uni-Gal/UniGal-Script)
+- [参与贡献][Unigal-Script](https://github.com/Uni-Gal/UniGal-Script)
   [![](https://img.shields.io/github/stars/Uni-Gal/UniGal-Script.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/Uni-Gal/UniGal-Script/stargazers)
   [![](https://img.shields.io/github/forks/Uni-Gal/UniGal-Script.svg?style=flat-square&logo=github&logoWidth=20&label=Forks&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/Uni-Gal/UniGal-Script/network/members)
-    
-+ [独立开发][VisualMoe 视频隐藏帧检测](https://github.com/BUCTSNC/VisualMoe)
+- [独立开发][VisualMoe 视频隐藏帧检测](https://github.com/BUCTSNC/VisualMoe)
   [![](https://img.shields.io/github/stars/BUCTSNC/VisualMoe.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/BUCTSNC/VisualMoe/stargazers)
 
-+ [主导开发][Schedule_Intersector 学生组织课表求交器](https://github.com/BUCTSNC/Schudule_Intersector)
+- [主导开发][Schedule_Intersector 学生组织课表求交器](https://github.com/BUCTSNC/Schudule_Intersector)
   [![](https://img.shields.io/github/stars/BUCTSNC/Schudule_Intersector.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/BUCTSNC/Schudule_Intersector/stargazers)
 
-+ [独立开发][OpenPlaids 生成这世界上所有的格纹](https://github.com/OpenPlaids/OpenPlaids)
+- [独立开发][OpenPlaids 生成这世界上所有的格纹](https://github.com/OpenPlaids/OpenPlaids)
   [![](https://img.shields.io/github/stars/OpenPlaids/OpenPlaids.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/OpenPlaids/OpenPlaids/stargazers)
 
-+ [社区索引][CUTI 中国高校TeX论文模板索引](https://github.com/LaoshuBaby/china-university-thesis-index)
+- [社区索引][CUTI 中国高校TeX论文模板索引](https://github.com/LaoshuBaby/china-university-thesis-index)
   [![](https://img.shields.io/github/stars/LaoshuBaby/china-university-thesis-index.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/china-university-thesis-index/stargazers)
 
 </details>
@@ -107,11 +108,11 @@ Emoji图像由 https://emojipedia.org/file-folder#designs 提供
 
 <details>
   
-<summary><strong><img src="https://em-content.zobj.net/source/mozilla/36/file-folder_1f4c1.png" style="height: 0.9em;" alt=":file_folder:">娱乐性Repo</strong></summary> 
+<summary><strong><img src="https://em-content.zobj.net/source/mozilla/36/file-folder_1f4c1.png" style="height: 0.9em;" alt=":file_folder:">娱乐性Repo</strong></summary>
 
-+ [【催更请Push】VampireValue(VV)](https://github.com/LaoshuBaby/VampireValue)
+- [【催更请Push】VampireValue(VV)](https://github.com/LaoshuBaby/VampireValue)
   [![](https://img.shields.io/github/stars/LaoshuBaby/VampireValue.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/VampireValue/stargazers)
-  
+
 </details>
 
 ### 集卡大全
@@ -134,19 +135,12 @@ Emoji图像由 https://emojipedia.org/file-folder#designs 提供
 
 ### Social Media
 
-想🍑吃呢！鼠宝宝不会给你看的哦！
-
 <details>
-  <summary></summary>
+  <summary>想🍑吃呢！鼠宝宝不会给你看的哦！</summary>
   <li>
-    <ol><li>
     <ul><a rel="me" href="https://wxw.moe/@laoshubaby">(Mastodon)wxw.moe@laoshubaby</a><br/></ul>
     <ul><a rel="me" href="https://en.osm.town/@laoshubaby">(Mastodon)en.osm.town@laoshubaby</a><br/></ul>
     <ul><a rel="me" href="https://misskey.io/@laoshubaby">(Misskey)misskey.io@laoshubaby</a><br/></ul>
-    </li></ol>
-    <ol>
-      <p>Adding</p>
-    </ol>
   </li>
 </details>
 
@@ -162,25 +156,24 @@ Emoji图像由 https://emojipedia.org/file-folder#designs 提供
 <div>
   <img src="https://avatars.githubusercontent.com/u/90183505?s=200&v=4" height=50 ></img>
   <br>
-  @OSMChina 
+  @OSMChina
 </div>
 <div>
   <img src="https://avatars.githubusercontent.com/u/69070757?s=200&v=4" height=50 ></img>
   <br>
-  @Uni-Gal 
+  @Uni-Gal
 </div>
 
 -->
 
-
 <!--
 https://github.com/ktKongTong/ktKongTong/blob/main/.github/workflows/action.yml
 -->
-
 
 剩下的……实在抱歉，因为感觉没什么技术含量，也算不上有多好玩，就不在这里展示和推荐了
 
 I WANNA BE A NEKO GIRL！
 
 ---
-~~*前面的区域以后再来探索吧。*~~
+
+~~_前面的区域以后再来探索吧。_~~
