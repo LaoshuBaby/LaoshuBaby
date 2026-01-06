@@ -13,6 +13,8 @@ GitHub的在线展示环境和VSCode等代码编辑器中使用浏览器作为HT
 
 -->
 
+<!-- 
+
 <table>
   <tr
     style="list-style: none; display: inline; grid-template-columns: 1fr 2fr"
@@ -35,7 +37,19 @@ GitHub的在线展示环境和VSCode等代码编辑器中使用浏览器作为HT
         <br />
       </details>
 
+-->
+
+<h2>
+Language
+</h2>
+
+<a href="https://github.com/laoshubaby/laoshubaby/blob/main/locale/zh-Hans.md">简体中文</a> | <a href="https://github.com/laoshubaby/laoshubaby/blob/main/locale/en.md">English</a> | <a href="https://github.com/laoshubaby/laoshubaby/blob/main/locale/ja.md">日本語</a>
+
+</hr>
+
 <span>网络上是鼠宝宝，生活中也是🐭宝宝</span>
+
+
 
 <!--
 
