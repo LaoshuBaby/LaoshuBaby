@@ -29,69 +29,9 @@ Language
         height="233"
       />
 
-### 仓库大全
+### 代表仓库
 
-<!--
-
-希望能认真建设和推广的项目：
-1. OSMChina三大原：Keqing-Zhongli-Yanfei
-2. 知识开放，推动Mozilla和千树学院的建设
-3. 所有参与翻译过的项目
-4. python-cngal/bangumi 以及其他开放知识站点的数据驱动（甚至可以造一个更底层的swagger的驱动，然后把各个站点的驱动都配置文件化，这是远期目标）
-
--->
-
-<!-- 玩具项目Repo -->
-
-<details>
-  <summary>
-    <strong
-      ><img
-        src="https://em-content.zobj.net/source/mozilla/36/file-folder_1f4c1.png"
-        style="height: 0.9em"
-        height=16px
-        alt=":file_folder:"
-      />玩具项目Repo</strong
-    >
-  </summary>
-
-  <!--
-      <img src='https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/python.svg' width='18'/> Python
-      <img src='https://raw.github.com/voodootikigod/logo.js/master/js.png' width='18'/> Javascript <although_I_don_t_know_js/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18"/> Typescript <although_I_don_t_know_ts/>
-      <those_from_docentYT_readme_and_looks_good/>
-      -->
-
-- [参与贡献][Unigal-Script](https://github.com/Uni-Gal/UniGal-Script)
-  [![](https://img.shields.io/github/stars/Uni-Gal/UniGal-Script.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/Uni-Gal/UniGal-Script/stargazers)
-  [![](https://img.shields.io/github/forks/Uni-Gal/UniGal-Script.svg?style=flat-square&logo=github&logoWidth=20&label=Forks&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/Uni-Gal/UniGal-Script/network/members)
-- [独立开发][VisualMoe 视频隐藏帧检测](https://github.com/BUCTSNC/VisualMoe)
-  [![](https://img.shields.io/github/stars/BUCTSNC/VisualMoe.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/BUCTSNC/VisualMoe/stargazers)
-- [主导开发][Schedule_Intersector 学生组织课表求交器](https://github.com/BUCTSNC/Schudule_Intersector)
-  [![](https://img.shields.io/github/stars/BUCTSNC/Schudule_Intersector.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/BUCTSNC/Schudule_Intersector/stargazers)
-- [独立开发][OpenPlaids 生成这世界上所有的格纹](https://github.com/OpenPlaids/OpenPlaids)
-  [![](https://img.shields.io/github/stars/OpenPlaids/OpenPlaids.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/OpenPlaids/OpenPlaids/stargazers)
-- [社区索引][CUTI 中国高校TeX论文模板索引](https://github.com/LaoshuBaby/china-university-thesis-index)
-[![](https://img.shields.io/github/stars/LaoshuBaby/china-university-thesis-index.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/china-university-thesis-index/stargazers)
-</details>
-
-<!-- 娱乐性Repo -->
-
-<details>
-  <summary>
-    <strong
-      ><img
-        src="https://em-content.zobj.net/source/mozilla/36/file-folder_1f4c1.png"
-        style="height: 0.9em"
-        height=16px
-        alt=":file_folder:"
-      />娱乐性Repo</strong
-    >
-  </summary>
-
-- [【催更请Push】VampireValue(VV)](https://github.com/LaoshuBaby/VampireValue)
-[![](https://img.shields.io/github/stars/LaoshuBaby/VampireValue.svg?style=flat-square&logo=github&logoWidth=20&label=Stars&labelColor=ce1126&color=fcd116&message=LAOSHUBABYMOE)](https://github.com/LaoshuBaby/VampireValue/stargazers)
-</details>
+WIP
 
 ### 集卡大全
 
@@ -130,8 +70,6 @@ Language
 
 ### Social Media
 
-<details>
-  <summary>想🍑吃呢！鼠宝宝不会给你看的哦！</summary>
   <ul style="display:inline">
     <li>
       <a rel="me" href="https://wxw.moe/@laoshubaby"
@@ -149,38 +87,9 @@ Language
       >
     </li>
   </ul>
-</details>
 
-<!--
-
-### 参与的项目
-
-<div>
-  <img src="https://avatars.githubusercontent.com/u/3856374?s=200&v=4" height=50 ></img>
-  <br>
-  [@osmlab/NSI](https://github.com/osmlab/name-suggestion-index)
-</div>
-<div>
-  <img src="https://avatars.githubusercontent.com/u/90183505?s=200&v=4" height=50 ></img>
-  <br>
-  @OSMChina
-</div>
-<div>
-  <img src="https://avatars.githubusercontent.com/u/69070757?s=200&v=4" height=50 ></img>
-  <br>
-  @Uni-Gal
-</div>
-
--->
-
-<!--
-https://github.com/ktKongTong/ktKongTong/blob/main/.github/workflows/action.yml
--->
-
-剩下的……实在抱歉，因为感觉没什么技术含量，也算不上有多好玩，就不在这里展示和推荐了
+<hr/>
 
 I WANNA BE A NEKO GIRL！
-
----
 
 ~~_前面的区域以后再来探索吧。_~~
